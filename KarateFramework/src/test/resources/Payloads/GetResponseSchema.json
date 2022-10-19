@@ -1,0 +1,7 @@
+{
+"gender" :"#string",
+"name":"#string",
+"id":"#number",
+"email":"#string",
+"status":"#string"
+}
